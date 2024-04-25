@@ -2,6 +2,6 @@
 
 
 - ⚡ html, react.js & discord.js dev 
-- 🔭 MK Music Creator & main dev
+- 🔭 MK Music creator & main dev
 - 💬 discord: @audriuxsmik
 
