@@ -1,7 +1,7 @@
 ### Hi there, I'm audriuxsmik 👋
 
 
-- ⚡ html, C#, react.js & discord.js dev 
-- 🔭 MK Music creator & main dev
+- ⚡ html, C#, react.js, vite, ts, C++ & discord.js dev 
+- 🔭 MK Music creator 
 - 💬 discord: @audriuxsmik
 
